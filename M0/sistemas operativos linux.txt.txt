@@ -1,0 +1,14 @@
+Linux ha surgido como un sistema operativo popular para servidores web como Apache, así como para operaciones de red, 
+tareas de computación científica que requieren enormes clústeres de computación, bases de datos en ejecución, 
+computación de escritorio/endpoint y dispositivos móviles en ejecución con versiones del sistema operativo como Android .
+
+Linus Torvalds comenzó a trabajar en Linux como un sustituto del sistema operativo MINIX mientras estaba en la Universidad de Helsinki, en Finlandia. 
+Torvalds reconoció el trabajo realizado en el Proyecto GNU en 1983, que tenía la intención de crear un sistema operativo completo, 
+compatible con Unix, que consistía enteramente de software libre, y señaló el GNU como un modelo de distribución. 
+Sin embargo, el trabajo en GNU no había terminado en el momento en que Torvalds buscó un reemplazo de MINIX, lo que le llevó a desarrollar un kernel de sistema operativo alternativo llamado Linux –una contracción de "Linus’ Unix"– y adoptar la GNU GPL.
+
+Desde su desarrollo inicial, Linux ha adoptado las estipulaciones de copyleft de la Fundación de Software Libre, que originó la Licencia Pública General (GPL) GNU GPL. 
+Copyleft dice que cualquier cosa tomada gratuitamente y modificada, debe a su vez ser distribuida de forma gratuita. 
+En la práctica, si Linux o otros componentes de GNU se desarrollan o modifican para crear una nueva versión de Linux, esa nueva versión debe ser distribuida de forma gratuita. 
+Esta es la base del desarrollo de código abierto que evita que un desarrollador u otros grupos se beneficien del trabajo libremente disponible de otros.
+
